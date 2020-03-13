@@ -1,0 +1,14 @@
+
+循环次数#20
+卸载APP#xun.ts.TSTestAn
+睡眠#1000
+绕过越狱环境#xun.ts.TSTestAn
+睡眠#1000
+WIFI设置#
+睡眠#1000
+安装APP#/var/Xbfile/IPA文件/TSTestAn.ipa
+睡眠#4000
+启动APP#xun.ts.TSTestAn
+睡眠#35000
+执行上几句#10
+睡眠#4000
